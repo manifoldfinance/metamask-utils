@@ -1,0 +1,8 @@
+export ENABLE_MV3=true
+export SEGMENT_HOST='https://api.segment.io' 
+export SEGMENT_WRITE_KEY='FAKE' 
+export PASSWORD='correct horse battery staple'
+export INFURA_PROJECT_ID=3ff0c675dc614116aa126b14f6368971
+export SEGMENT_WRITE_KEY=''
+export SENTRY_PUBLIC_KEY=''
+export SENTRY_PROJECT_ID=''
